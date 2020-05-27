@@ -25,7 +25,7 @@ SECRET_KEY = 'r0yg2pf752m1)oy67yyhs@7^uwbcndkjdy@g=rv-f15%e8o$t#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['projeto-ponto.herokuapp.com']
+ALLOWED_HOSTS = ['https://young-beach-76033.herokuapp.com/']
 
 
 # Application definition
